@@ -82,7 +82,7 @@ DATABASES = {
         'USER': 'monitoring_user',
         'PASSWORD': 'isis2503',
         'HOST': '10.128.0.3',
-        'PORT': '5432',
+        'PORT': '543',
     }
 }
 
